@@ -37,6 +37,7 @@ html{ overflow:scroll}
 .ner p{ text-indent:2em; font-size:14px; color:#333; line-height:1.5; padding-top:10px;}
 .ner p a{ color:#333; }
 .ner p span{ font-weight:bold;color:#388ee5}
+.ner p strong { color: #388ee5;}
 .comr{ width:250px; float:right;}
 
 
